@@ -14,6 +14,8 @@ Por otro lado, solo se comparte la aplicación en sí, los modelos fueron entren
 
 Los archivos `*.p` son los modelos entrenados para el funcionamiento de la aplicación.
 
+Por otro lado, se ocupó QtDesign y PySide6 para el desarrollo de la interfaz gráfica.
+
 
 # DEMOSTRACIONES
 
