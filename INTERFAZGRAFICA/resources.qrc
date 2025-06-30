@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="iconos">
+    <file>lenguaje.jpg</file>
+    <file>humano.png</file>
+    <file>positividad.png</file>
+    <file>RECONO.png</file>
+    <file>SENAS.png</file>
+  </qresource>
+</RCC>
